@@ -1,0 +1,86 @@
+body {
+  background-color:rgb(0,0,0);
+  color:rgb(255,255,255);
+}
+
+#hero {
+  width:100%;
+  height:100vh;
+  background-image:url("../images/lost-co-178990-unsplash.jpg");
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  color:#333;
+}
+
+.navbar-light .navbar-brand {
+  background-image:url("../images/2035692262_5f61e458-eb34-4861-a16d-4c9809981f12.png");
+  background-position:center;
+  background-size:80%;
+  background-repeat:no-repeat;
+  width:150px;
+  height:60px;
+}
+
+#title {
+  font-size:32px;
+  font-family:Montserrat, sans-serif;
+  font-weight:300;
+}
+
+#subtitle {
+  font-family:Montserrat, sans-serif;
+  font-size:40px;
+  font-weight:bold;
+  color:rgb(51,51,51);
+}
+
+#hero-bottom {
+  color:#ffffff;
+}
+
+#p-top {
+  font-size:28px;
+  font-family:Montserrat, sans-serif;
+  font-weight:bold;
+  margin-bottom:0;
+}
+
+#p-bot {
+  font-size:13px;
+}
+
+.register-button {
+  background-color:rgba(0,0,0,0);
+  border:3px solid white;
+  border-radius:30px;
+}
+
+.btn.btn-link.btn-block.arrow-button {
+  color:#fff;
+  font-size:32px;
+}
+
+#hero-bottom .container {
+  width:700px;
+  text-align:center;
+}
+
+.col.white-border {
+  border:1px solid rgba(255,255,255,0.2);
+  border-top:0;
+  border-bottom:0;
+}
+
+#information-1 {
+  width:100%;
+  height:30vh;
+  background-color:#ffffff;
+}
+
+.btn-primary:hover {
+  color:#fff;
+  background-color:rgba(0,105,217,0);
+  border-color:#ffffff;
+}
+
